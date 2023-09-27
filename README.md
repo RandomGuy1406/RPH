@@ -19,6 +19,4 @@
       <h3> Present</h3>
         <p> Currently, Riley Parker Hunter sits in top of the 3rd column of Mac A (column 1 is the one closest to the front door of Mac A), the place where Eamon Marchant teaches AP Computer Science as well as AP Physics, and they are adored by all students who lay their eyes upon it. </p>
 
-  
-  <h1> Random <a href="https://logant.neocities.org" target="_blank">Link</a></h1>
 </body>
