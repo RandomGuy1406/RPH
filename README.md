@@ -1,4 +1,4 @@
-# RileyParkerHunter
+# Riley Parker Hunter
 <head>Here is the one and only, Riley Parker Hunter</head>
 <body>
   <h1> All about Riley Parker Hunter</H1>
