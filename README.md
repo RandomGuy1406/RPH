@@ -4,7 +4,7 @@
   <h1> All about Riley Parker Hunter</H1>
     <img src="IMG_3845.jpg" length="800" width="450"/>
     <h2> Physical Attributes </h2>
-      <p>Riley Parker Hunter is a pink dinosaur with an angy look on its face. It has white spikes on its back and a white underbelly.They are 10.5 inches tall (26.67 in non-freedom units <em><strong>cough cough</strong></em> cm), 6.13 inches long (15.57 cm) and 6.38 inches wide (16.2 cm) from the base but is 4.38 inches head wide (11.12 cm). They also have stubby little arms like a T-Rex.</p>
+      <p>Riley Parker Hunter is a pink dinosaur with an angy look on its face. It has brown spikes and spots on its back and a white underbelly.They are 10.5 inches tall (26.67 in non-freedom units <em><strong>cough cough</strong></em> cm), 6.13 inches long (15.57 cm) and 6.38 inches wide (16.2 cm) from the base but is 4.38 inches head wide (11.12 cm). They also have stubby little arms like a T-Rex. </p>
     <h2> Personality </h2>
       <p> Riley Parker Hunter is a dynamic being. They are extremely smart and they love adventure. That is clearly seen by how it loves to do wild and dangerous things as shown by the picture below. They are also a leader, though the other plushies all claim that they are a tyrant but nobody knows where that propaganda comes from as all people who visit and see Riley Parker Hunter all can see that they are a well-mannered being who is very polite. </p>
   <div>
